@@ -131,3 +131,6 @@ Compiling your contracts...
 
 
 - 执行项目，npm run dev 
+
+- ![image.png](./img/index.png)
+- ![image.png](./img/adopted.png)
